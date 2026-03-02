@@ -1,0 +1,30 @@
+# Maven / Java
+target/
+build/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Playwright artifacts
+playwright-report/
+test-results/
+trace.zip
+**/traces/
+
+# Environment / secrets
+.env
+*.env.local
+

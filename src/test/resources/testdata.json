@@ -1,0 +1,8 @@
+{
+  "login": {
+    "validUser": "lloyds.user001@gmail.com",
+    "validPass": "wpa@pskpsK8"
+  },
+  "navigation": ["Markets", "Trade", "Assets"]
+}
+
